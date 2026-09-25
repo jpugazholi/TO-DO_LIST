@@ -337,11 +337,10 @@ It helped me strengthen my understanding of frontend fundamentals and provided p
 
 ---
 
-<div align="center">⭐ Thanks for Visiting!
+⭐ Thanks for Visiting!
 
 If you find this project useful, consider giving the repository a ⭐
 
 Learn • Build • Improve 🚀
 
-</div>
 ```
