@@ -18,11 +18,11 @@ A lightweight and interactive **To-Do List Web Application** designed to help us
 
 ## 📌 About This Project
 
-**TO-DO LIST** is a frontend-based task management web application built using **HTML5, CSS3, and JavaScript**.
+**TO-DO LIST** is a frontend-based task management web application built using **Reactjs, CSS3, and JavaScript**.
 
 The application provides a simple interface for users to add, manage, complete, and remove tasks. It focuses on implementing core frontend concepts while providing a clean and interactive user experience.
 
-This project was developed as a hands-on learning project to strengthen practical knowledge of **HTML, CSS, JavaScript, DOM manipulation, event handling, and Git/GitHub**.
+This project was developed as a hands-on learning project to strengthen practical knowledge of **Reactjs, CSS, JavaScript, DOM manipulation, event handling, and Git/GitHub**.
 
 ---
 
@@ -64,7 +64,7 @@ The application currently provides the following core task-management functional
 
 | Category | Technologies |
 |---|---|
-| Structure | HTML5 |
+| Structure | HTML5 | Reactjs |
 | Styling | CSS3 |
 | Logic | JavaScript |
 | Version Control | Git |
